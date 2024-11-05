@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohedaeyi.github.io/HYk/sitemap_index.txt
+Sitemap: https://ohedaeyi.github.io/PQo/sitemap_index.txt
+Sitemap: https://ohedaeyi.github.io/hGF/sitemap_index.txt
+Sitemap: https://ohedaeyi.github.io/tSc/sitemap_index.txt
